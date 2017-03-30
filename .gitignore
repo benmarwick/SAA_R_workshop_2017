@@ -34,3 +34,4 @@ vignettes/*.pdf
 .Rproj.user
 
 /things_to_install/packages
+/things_to_install/R_and_RStudio
