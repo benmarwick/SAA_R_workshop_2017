@@ -33,6 +33,8 @@ vignettes/*.pdf
 *.knit.md
 .Rproj.user
 
+
 /things_to_install/packages/OSX_package_binaries
 /things_to_install/packages/windows_package_binaries
 /things_to_install/R_and_RStudio
+
